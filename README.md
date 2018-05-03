@@ -1,2 +1,2 @@
-# EANTRM-Center
-App EantRM-Center
+# EANT-Center
+App EANT-Center
