@@ -67,9 +67,7 @@
             </span>
           </a>
           <ul class="treeview-menu">
-            <li><a href="pages/forms/general.html"><i class="fa fa-circle-o"></i> General Elements</a></li>
-            <li><a href="pages/forms/advanced.html"><i class="fa fa-circle-o"></i> Advanced Elements</a></li>
-            <li><a href="pages/forms/editors.html"><i class="fa fa-circle-o"></i> Editors</a></li>
+            
           </ul>
         </li>
         <li class="treeview">
@@ -202,7 +200,7 @@
               <i class="menu-icon fa fa-birthday-cake bg-red"></i>
 
               <div class="menu-info">
-                <h4 class="control-sidebar-subheading">Langdon's Birthday</h4>
+                <h4 class="control-sidebar-subheading"></h4>
 
                 <p>Will be 23 on April 24th</p>
               </div>
